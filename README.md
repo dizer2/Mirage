@@ -11,4 +11,4 @@
 
 ---
 
-https://dizer2.github.io/Meta/
+https://mirage-pink.netlify.app/
